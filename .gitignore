@@ -2,3 +2,4 @@
 #ambiente virtual
 .venv/
 __pycache__/
+static/
