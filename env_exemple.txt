@@ -1,0 +1,9 @@
+
+
+
+# conexão com o banco de dados
+PG_NAME=""
+PG_USER=""
+PG_PASS=""
+PG_HOST=""
+PG_PORT=""
